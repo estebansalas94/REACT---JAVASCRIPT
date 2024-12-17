@@ -6,12 +6,9 @@ import './styles.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    {/* Titulo */}
+
     <GitExpertApp />
 
-    {/* Input */}
-
-    {/* Listado de Gif */}
-        {/* Gif Item */}
+    
   </React.StrictMode>,
 )
